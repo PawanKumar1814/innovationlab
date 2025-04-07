@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/innovationlab/static/css/main.119a283e.css",
-    "main.js": "/innovationlab/static/js/main.124b663b.js",
+    "main.js": "/innovationlab/static/js/main.e03e47ee.js",
     "static/js/453.51dc8f60.chunk.js": "/innovationlab/static/js/453.51dc8f60.chunk.js",
     "static/media/bc.jpg": "/innovationlab/static/media/bc.7fd41ce11bfd2fe2b9a0.jpg",
     "static/media/slick.svg": "/innovationlab/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/innovationlab/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/innovationlab/index.html",
     "main.119a283e.css.map": "/innovationlab/static/css/main.119a283e.css.map",
-    "main.124b663b.js.map": "/innovationlab/static/js/main.124b663b.js.map",
+    "main.e03e47ee.js.map": "/innovationlab/static/js/main.e03e47ee.js.map",
     "453.51dc8f60.chunk.js.map": "/innovationlab/static/js/453.51dc8f60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.119a283e.css",
-    "static/js/main.124b663b.js"
+    "static/js/main.e03e47ee.js"
   ]
 }
