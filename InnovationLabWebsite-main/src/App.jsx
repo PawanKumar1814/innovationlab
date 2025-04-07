@@ -15,7 +15,7 @@ import AdminDashboard from "./pages/admin_page";
 
 function App() {
   return (
-    <Router basename="/innovationlab">
+    <Router basename="/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} /> 
